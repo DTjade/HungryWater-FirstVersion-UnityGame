@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{44B59FF0-A959-6D7A-0BA6-BEFF72D01DED}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/BackToMainScreen.cs">
+    <Files>
+      <File FileName="Assets/script/CameraFollow.cs" Line="9" Column="27" />
+      <File FileName="Assets/script/PlayerMovement.cs" Line="67" Column="1" />
+      <File FileName="Assets/script/MoveDrops7.cs" Line="24" Column="43" />
+      <File FileName="Assets/script/BackToMainScreen.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
